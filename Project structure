@@ -1,0 +1,5 @@
+Yerevan-Trajectory-Analysis/
+│
+├── Copy_of_Untitled6.ipynb      # Your main Jupyter notebook
+├── yerevan_walk_and_car.csv      # GPS & altitude data
+└── README.md                     # Project description
